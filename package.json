@@ -1,7 +1,7 @@
 {
-  "name": "mern",
+  "name": "uberx",
   "version": "1.0.0",
-  "description": "Mern Demo",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "server": "node server.js",
@@ -19,6 +19,10 @@
     "concurrently": "^3.6.1",
     "nodemon": "^1.18.3"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshLandi/UbeRx.git"
+  },
   "dependencies": {
     "bcrypt-nodejs": "^0.0.3",
     "body-parser": "^1.18.3",
@@ -28,4 +32,5 @@
     "mongoose": "^5.2.9",
     "morgan": "^1.9.0"
   }
+
 }

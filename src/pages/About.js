@@ -6,14 +6,14 @@ import Col from "../components/Col";
 
 const About = () => (
   <div>
-    <Hero backgroundImage="https://i.imgur.com/qkdpN.jpg">
-      <h1>Pupster</h1>
-      <h2>They're the Good Boys and Girls</h2>
+    <Hero backgroundImage="https://d1pra95f92lrn3.cloudfront.net/media/thumb/2057_fit512.jpg">
+      <h1>MedCabinet!</h1>
+      <h2> Keeping Track of Medicatiion Madde Easy!</h2>
     </Hero>
     <Container style={{ marginTop: 30 }}>
       <Row>
         <Col size="md-12">
-          <h1>Welcome To Pupster!</h1>
+          <h1>Welcome To MedCabinet!</h1>
         </Col>
       </Row>
       <Row>

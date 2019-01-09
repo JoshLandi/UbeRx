@@ -3,9 +3,9 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import Discover from "./pages/Discover";
 import About from "./pages/About";
 import Search from "./pages/Search";
-import Navbar from "./src/components/Navbar";
-import Footer from "./src/components/Footer";
-import Wrapper from "./src/components/Wrapper";
+import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
+import Wrapper from "./components/Wrapper";
 
 const App = () => (
   <Router>
